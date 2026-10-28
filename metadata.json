@@ -1,0 +1,6 @@
+{
+  "name": "FairCredit - AI Bias Auditing & Mitigation Platform",
+  "description": "Algorithmic bias auditing, proxy variable detection, and fairness mitigation platform for digital micro-lending risk models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
